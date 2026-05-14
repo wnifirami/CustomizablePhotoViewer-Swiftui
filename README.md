@@ -7,11 +7,7 @@ A full-screen SwiftUI photo viewer with hero expand/collapse animation, pinch-to
 ## Preview
 
 <p align="center">
-  <img src="Screenshots/gallery.png" width="30%" alt="Gallery view" />
-  &nbsp;&nbsp;
-  <img src="Screenshots/viewer.png" width="30%" alt="Full-screen viewer" />
-  &nbsp;&nbsp;
-  <img src="Screenshots/zoom.png" width="30%" alt="Pinch-to-zoom" />
+  <img src="https://github.com/user-attachments/assets/aabdc1fe-96cc-4355-a6d7-9c754afc210f" width="30%" alt="Gallery view" />
 </p>
 
 ---
