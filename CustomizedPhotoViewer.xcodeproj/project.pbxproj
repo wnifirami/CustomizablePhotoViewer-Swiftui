@@ -30,14 +30,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EA7F15712FB5FD410098A16A /* Example */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Example;
-			sourceTree = "<group>";
-		};
 		70484B94E0EA4B2E8066A8F45FB799B3 /* Sources/PhotoViewer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Sources/PhotoViewer;
+			sourceTree = "<group>";
+		};
+		EA7F15712FB5FD410098A16A /* Example */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Example;
 			sourceTree = "<group>";
 		};
 		EA7F157F2FB5FD420098A16A /* CustomizedPhotoViewerTests */ = {
@@ -114,8 +114,8 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EA7F15712FB5FD410098A16A /* Example */,
 				70484B94E0EA4B2E8066A8F45FB799B3 /* Sources/PhotoViewer */,
+				EA7F15712FB5FD410098A16A /* Example */,
 			);
 			name = CustomizedPhotoViewer;
 			packageProductDependencies = (
